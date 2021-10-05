@@ -1,2 +1,1 @@
-# fristdart
-dart project fun
+A simple command-line application.
