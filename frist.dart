@@ -33,7 +33,7 @@ d = 7;
        print(w);
      print(pedaret);
                              for (int x=11;
-                 x<= 99999999999999999; x++)
+                 x<= 9999999; x++)
 {
        print(x);
 }
